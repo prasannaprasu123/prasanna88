@@ -42,9 +42,9 @@
 </scm>
 <distributionManagement>
 <repository>
-<id>nexusrepo1</id>
+<id>maven-releases</id>
 <url>
-http://35.244.16.24:8081/repository/nexusrepo1/
+http://35.244.16.24:8081/repository/maven-releases/
 </url>
 </repository>
 <snapshotRepository>	
