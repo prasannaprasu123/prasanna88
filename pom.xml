@@ -42,9 +42,9 @@
 </scm>
 <distributionManagement>
 <repository>
-<id>DEVOPS3</id>
+<id>nexusrepo1</id>
 <url>
-http://localhost:8081/nexus/content/repositories/devops3/
+http://35.244.16.24:8081/repository/nexusrepo1/
 </url>
 </repository>
 <snapshotRepository>	
